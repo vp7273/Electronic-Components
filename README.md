@@ -1,6 +1,7 @@
 
 
 
+
 # Electronic-Components
 
   PROJECT DESCRIPTION
@@ -22,8 +23,11 @@
 
 
   Programmer created header files
+  
  "Resistor.h"
+ 
  "Capacitor.h"
+ 
  "Battery.h"
 
 
